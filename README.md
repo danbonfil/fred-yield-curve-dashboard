@@ -2,7 +2,7 @@
 
 Dynamic yield curve analytics terminal built in Power BI Dashboard using Federal Reserve Economic Data (FRED API).
 
-This dashboard reconstructs the full U.S. Treasury yield curve, term spreads, and macro trend structures from 1962–present.
+This dashboard reconstructs the full U.S. Treasury yield curve and term spreads from 1962–![present](https://fred.stlouisfed.org/series/DGS10).
 
 ---
 
