@@ -6,6 +6,12 @@ This dashboard reconstructs the full U.S. Treasury yield curve, term spreads, an
 
 ---
 
+## 📌 Preview
+
+![FRED Yield Curve Dashboard](fred-yield-curve-dashboard.png)
+
+---
+
 ## 🚀 Features
 
 ### Dynamic Yield Curve Engine
@@ -49,12 +55,6 @@ Federal Reserve Economic Data (FRED)
 - Power Query (M)  
 - DAX  
 - FRED API  
-
----
-
-## 📌 Preview
-
-![FRED Yield Curve Dashboard](fred-yield-curve-dashboard.png)
 
 ---
 
