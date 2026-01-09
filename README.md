@@ -38,14 +38,14 @@ This dashboard reconstructs the full U.S. Treasury yield curve and term spreads 
 
 Federal Reserve Economic Data (FRED)
 
-| Series |
-|------|
-| DGS6MO |
-| DGS2 |
-| DGS5 |
-| DGS10 |
-| DGS20 |
-| DGS30 |
+| Series | Description | Link |
+|-------|------------|------|
+| **DGS6MO** | 6-Month Treasury Constant Maturity Rate | https://fred.stlouisfed.org/series/DGS6MO |
+| **DGS2** | 2-Year Treasury Constant Maturity Rate | https://fred.stlouisfed.org/series/DGS2 |
+| **DGS5** | 5-Year Treasury Constant Maturity Rate | https://fred.stlouisfed.org/series/DGS5 |
+| **DGS10** | 10-Year Treasury Constant Maturity Rate | https://fred.stlouisfed.org/series/DGS10 |
+| **DGS20** | 20-Year Treasury Constant Maturity Rate | https://fred.stlouisfed.org/series/DGS20 |
+| **DGS30** | 30-Year Treasury Constant Maturity Rate | https://fred.stlouisfed.org/series/DGS30 |
 
 ---
 
