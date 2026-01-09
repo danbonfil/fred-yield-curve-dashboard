@@ -2,7 +2,7 @@
 
 Dynamic yield curve analytics terminal built in Power BI using Federal Reserve Economic Data (FRED API).
 
-This dashboard reconstructs the full U.S. Treasury term structure, macro regimes, and recession-grade inversion diagnostics from **1962–present**.
+This dashboard reconstructs the full U.S. Treasury yield curve, term spreads, and macro trend structures from 1962–present.
 
 ---
 
@@ -83,7 +83,7 @@ Power Query pulls each maturity independently from FRED, normalizes them into a 
 DAX dynamically extracts Current, −1M, and −1Y snapshots.
 
 **Why:**  
-Creates a true macro yield surface to visualize steepening, flattening, and inversion.
+Creates a true macro yield surface to visualize steepening and flattening.
 
 ---
 
