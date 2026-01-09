@@ -1,6 +1,6 @@
-# 📈 FRED Yield Curve Analytics — Power BI Macro Dashboard
+# 📈 FRED Yield Curve Analytics
 
-Dynamic yield curve analytics terminal built in Power BI using Federal Reserve Economic Data (FRED API).
+Dynamic yield curve analytics terminal built in Power BI Dashboard using Federal Reserve Economic Data (FRED API).
 
 This dashboard reconstructs the full U.S. Treasury yield curve, term spreads, and macro trend structures from 1962–present.
 
@@ -22,7 +22,7 @@ This dashboard reconstructs the full U.S. Treasury yield curve, term spreads, an
 - Continuous yield series from 1962–present  
 - Macro monetary regime overlays
 
-### Macro Navigation Engine
+### Global Navigation Engine
 - Unified Calendar × Tenor dimensional model  
 - One year slider controls all visuals simultaneously
 
@@ -103,7 +103,7 @@ Tracks all macro spreads:
 > S10-6M · S10-2Y · S10-5Y · S10-20Y · S10-30Y
 
 **Why:**  
-Yield inversions are among the strongest recession predictors — this panel acts as a macro stress monitor.
+Yield inversions are among the strongest recession predictors — this panel serves as a stress monitor.
 
 ---
 
@@ -122,5 +122,3 @@ All visuals are driven by a **single Calendar × Tenor dimensional model**:
 - Enables historical replay of the full U.S. yield surface
 
 ---
-
-Built by **Daniel Bonfil**
